@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "fraunhofer_suite"
+group = "jb_sast_suite"
 version = "1.0-SNAPSHOT"
 
 repositories {

@@ -1,4 +1,4 @@
-// Copyright 2025, JetBrains. All rights reserved.
+// Copyright 2025, JetBrains. This work is licensed under CC BY-NC-ND 4.0.
 package fraunhofer_suite.maps;
 
 import javax.servlet.http.HttpServletRequest;
